@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdishakur</h1>
 
 🌟 **About Me**  
+
 👋 Hey there! I'm an **aspiring DevOps Engineer** currently honing my skills with **CoderCo** and pursuing a **BSc in Computing** at **Birkbeck, University of London**.  
 
-📚 **What I’m Learning**:  
+📚 **What I’m Learning**: 
+
 I’ve explored the worlds of **Linux** 🐧 and **Git** 📂, and I’m excited to dive into:  
 - **Networking** 🌐  
 - **AWS** ☁️  
@@ -13,6 +15,7 @@ I’ve explored the worlds of **Linux** 🐧 and **Git** 📂, and I’m excited
 - **CI/CD Pipelines** ⚙️  
 
 💡 **What I Share**:  
+
 This GitHub is where I document my journey—from scripts and solutions to projects and experiments. Join me as I build and break things, one line of code at a time!  
 
 🚀 Let’s connect, collaborate, and learn together.  
